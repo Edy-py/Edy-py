@@ -10,7 +10,7 @@ Minha jornada envolve a constante busca por conhecimento e a aplicação prátic
 
 Aqui estão algumas das ferramentas e tecnologias que utilizo em meus projetos:
 
-* **Linguagens de Programação:** `Python`
+* **Linguagens de Programação:** `Python, Java, C`
 
 * **Bibliotecas de Análise de Dados:** `Pandas`, `NumPy`
 
