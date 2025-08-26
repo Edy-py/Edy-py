@@ -2,7 +2,7 @@
 
 ### Estudante de Ciência da Computação (3º Período) | Entusiasta de Dados e Finanças 📊💰
 
-Seja bem-vindo(a) ao meu universo no GitHub! Sou estudante de **Ciência da Computação** no **3º período em uma Universidade Federal Brasileira**, com uma grande paixão por desvendar padrões e gerar insights valiosos no mercado financeiro. Acredito que o poder dos dados, combinado com as inovações em **Machine Learning (ML)**, pode transformar a forma como entendemos e interagimos com o mundo das finanças.
+Seja bem-vindo(a) ao meu universo no GitHub! Sou estudante de **Ciência da Computação** no **3º período em uma Universidade Federal de Catalão**, com uma grande paixão por desvendar padrões e gerar insights valiosos no mercado financeiro. Acredito que o poder dos dados, combinado com as inovações em **Machine Learning (ML)**, pode transformar a forma como entendemos e interagimos com o mundo das finanças.
 
 Minha jornada envolve a constante busca por conhecimento e a aplicação prática de técnicas de **análise de dados** e **programação** para resolver desafios complexos e explorar o potencial da inteligência artificial.
 
